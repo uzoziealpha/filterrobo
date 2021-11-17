@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/filterrobo/static/css/main.2471e8d4.chunk.css",
+    "main.js": "/filterrobo/static/js/main.76436b4c.chunk.js",
+    "main.js.map": "/filterrobo/static/js/main.76436b4c.chunk.js.map",
+    "runtime-main.js": "/filterrobo/static/js/runtime-main.d31485cb.js",
+    "runtime-main.js.map": "/filterrobo/static/js/runtime-main.d31485cb.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/filterrobo/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/filterrobo/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/filterrobo/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/filterrobo/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/filterrobo/index.html",
+    "static/css/main.2471e8d4.chunk.css.map": "/filterrobo/static/css/main.2471e8d4.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/filterrobo/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31485cb.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.2471e8d4.chunk.css",
+    "static/js/main.76436b4c.chunk.js"
+  ]
+}
